@@ -1,0 +1,16 @@
+ 2 node index.js
+   3 git status
+   4 dir
+   5 git init
+   6 git status
+   7 git add index.js
+   8 git status
+   9 rm index.js
+  10 dir
+  11 ls
+  12 git restore index.js
+  13 node index.js
+  14 git status
+  15 git rm --cachedindex.js
+  16 dir
+  17 git status
